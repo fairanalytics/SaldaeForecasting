@@ -1,0 +1,24 @@
+{
+    "id": "BABD3E94",
+    "path": "~/Saldae Platform/SaldaeReporting/inst/Saldae_main_report.Rmd",
+    "project_path": null,
+    "type": "r_markdown",
+    "hash": "4109188097",
+    "contents": "",
+    "dirty": false,
+    "created": 1639557983578.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "cursorPosition": "16,3",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1639558049,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1639558049214,
+    "read_only": false,
+    "read_only_alternatives": []
+}
